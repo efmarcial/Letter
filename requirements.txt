@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+gunicorn
+ipython
+django-cors-headers
+pillows
